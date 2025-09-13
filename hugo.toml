@@ -1,4 +1,0 @@
-baseURL = 'https://nsw-abi.party/'
-languageCode = 'de-de'
-title = 'NSW Abijahrgang 2026'
-theme = "hugo-theme-stack"
