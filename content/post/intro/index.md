@@ -1,6 +1,6 @@
 ---
 date: '2025-09-03T22:13:41+02:00'
-draft: true
+draft: false
 title: 'Willkommen'
 author: 'Niklas Wandelt'
 tags:
@@ -9,6 +9,7 @@ tags:
 
 categories:
    - 'Organisation'
+weight: 1
 ---
 
 

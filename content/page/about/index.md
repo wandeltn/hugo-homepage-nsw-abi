@@ -1,12 +1,11 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
+description: Wer sind wir eigentlich?
 date: '2025-09-09'
 aliases:
   - about-us
   - wer-sind-wir
   - contact
-license: CC BY-NC-ND
 lastmod: '2025-09-13'
 menu:
     main: 
@@ -14,3 +13,5 @@ menu:
         params:
             icon: user
 ---
+
+Wir sind der Abijahrgang 2026 der Neuen Schule Wolfsburgs in Wolfsburg, wie der Name schon sagt.

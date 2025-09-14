@@ -1,6 +1,6 @@
 ---
 date: '2025-09-03T23:03:34+02:00'
-draf: false
+draft: false
 title: 'Vorabi-Afterparty in der Hafenbutze'
 author: 'Niklas Wandelt'
 hidden: false

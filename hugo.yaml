@@ -9,7 +9,7 @@ params:
   article:
     license:
         enabled: true
-        default: Licensed under CC BY-NC-SA 4.0
+        default: Licensed under CC BY-NC-ND
   widgets:
       homepage:
           - type: search
@@ -24,6 +24,12 @@ params:
                 limit: 10
       page:
           - type: toc
+  colorScheme:
+      # Display toggle
+      toggle: true
+
+      # Available values: auto, light, dark
+      default: auto
 
 permalinks:
     post: /p/:slug/
@@ -31,3 +37,38 @@ permalinks:
 
 menu:
     main: []
+
+services:
+    googleAnalytics:
+        id: G-7SX50RC26X
+        anonymizeIP: false
+
+markup:
+    goldmark:
+        extensions:
+            passthrough:
+                enable: true
+                delimiters:
+                    block:
+                        - - \[
+                          - \]
+                        - - $$
+                          - $$
+                    inline:
+                        - - \(
+                          - \)
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: true
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
