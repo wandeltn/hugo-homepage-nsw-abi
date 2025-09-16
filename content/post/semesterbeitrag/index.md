@@ -21,7 +21,7 @@ Die Antwort auf diese Frage hat auch bei uns auf viel Diskussion getroffen, die 
 
 ### Warum führen die Semestergebühren ein?
 
-Hauptgrund ist natürlich, dass wir weiter Geld sammeln müssen. Ein weiterer wichtiger Punkt ist jedoch die GEMA Gebühr, die wir wegen der spielenden Musik bezahlen müssen. Diese Gebühr ist von der Fläche, Personen, Dauer und besonders wichtig, eben dem Ticketpreis. Wenn die Ticketkosten sinken, springt die GEMA Gebühr. Einen großen Sprung macht die Gebühr jedoch bei 64€. Wenn dieser Betrag unterschritten wird, springen die Kosten um 10.000€ nach unten. Dieses Ziel wollen wir erreichen. Klar können wir auch die Kosten auf den Ticketpreis umlegen, leider steigen dann die Kosten plötzlich in die Höhe, ohne unseren Einfluss. Deshalb hoffen wir auf eure Unterstützung.
+Hauptgrund ist natürlich, dass wir weiter Geld sammeln müssen. Ein weiterer wichtiger Punkt ist jedoch die GEMA Gebühr, die wir wegen der spielenden Musik bezahlen müssen. Diese Gebühr ist von der Fläche, Personen, Dauer und besonders wichtig, eben dem Ticketpreis. Wenn die Ticketkosten sinken, springt die GEMA Gebühr. Einen großen Sprung macht die Gebühr jedoch bei 64€. Wenn dieser Betrag unterschritten wird, springen die Kosten um einen großen Betrag nach unten. Dieses Ziel wollen wir erreichen. Klar können wir auch die Kosten auf den Ticketpreis umlegen, leider steigen dann die Kosten plötzlich in die Höhe, ohne unseren Einfluss. Deshalb hoffen wir auf eure Unterstützung.
 
 ### Das ich mir nicht leisten, was soll ich tun?
 
