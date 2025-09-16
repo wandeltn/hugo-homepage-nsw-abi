@@ -7,6 +7,6 @@ categories:
     - Spenden
 ---
 
-# Spendensammlung per GoFundMe
+## Spendensammlung per GoFundMe
 
 <https://www.gofundme.com/f/abi2026>
