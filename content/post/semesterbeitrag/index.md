@@ -19,6 +19,8 @@ Um uns unseren gewünschten Abiball leisten zu können, fehlt uns leider noch er
 
 Die Antwort auf diese Frage hat auch bei uns auf viel Diskussion getroffen, die Entscheidung war auch nicht einfach. Am Ende haben wir uns gemeinsam auf einen variablen Betrag zwischen 5-10€ geeinigt.
 
+Ihr könnt ab jetzt auch gerne den Semesterbeitrag unter <https://tickets.nsw-abi.party/event/semsep> bezahlen.
+
 ### Warum führen die Semestergebühren ein?
 
 Hauptgrund ist natürlich, dass wir weiter Geld sammeln müssen. Ein weiterer wichtiger Punkt ist jedoch die GEMA Gebühr, die wir wegen der spielenden Musik bezahlen müssen. Diese Gebühr ist von der Fläche, Personen, Dauer und besonders wichtig, eben dem Ticketpreis. Wenn die Ticketkosten sinken, springt die GEMA Gebühr. Einen großen Sprung macht die Gebühr jedoch bei 64€. Wenn dieser Betrag unterschritten wird, springen die Kosten um einen großen Betrag nach unten. Dieses Ziel wollen wir erreichen. Klar können wir auch die Kosten auf den Ticketpreis umlegen, leider steigen dann die Kosten plötzlich in die Höhe, ohne unseren Einfluss. Deshalb hoffen wir auf eure Unterstützung.
