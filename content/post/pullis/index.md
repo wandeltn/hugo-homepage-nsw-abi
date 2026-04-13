@@ -11,7 +11,7 @@ categories:
 weight: 1
 ---
 
-# Verkauf der Abipullis
+# Farben der Pullover
 
 ![](bottle_green.jpg) ![](deep_black.jpg)
 
